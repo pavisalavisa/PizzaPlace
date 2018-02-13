@@ -5,7 +5,7 @@
     <string name="action_share">Share</string>
     <string name="title_activity_order">Place an order</string>
     <string name="title_top">Top fragment</string>
-
+    <string name="title_activity_pizza_detail">Pizza detail activity</string>
     <string-array name="pizzas">
         <item>Diavolo</item>
         <item>Funghi</item>
